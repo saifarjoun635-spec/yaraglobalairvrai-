@@ -37,12 +37,12 @@ export default function Navbar() {
                     : 'border-b border-transparent'
             }`}
         >
-            <nav className="mx-auto flex h-20 max-w-7xl items-center justify-between px-4 sm:px-6 lg:px-8">
+            <nav className="mx-auto flex h-24 max-w-7xl items-center justify-between px-4 sm:h-28 sm:px-6 lg:px-8">
                 <Link to="/" data-testid="nav-logo" className="group flex items-center">
                     <img
                         src="/assets/logo-full.png"
                         alt="Yara Global Air — Climatisation, chauffage et réfrigération, certifié expert"
-                        className="h-14 w-auto transition-transform duration-500 group-hover:scale-[1.04] sm:h-16"
+                        className="h-[72px] w-auto transition-transform duration-500 group-hover:scale-[1.04] sm:h-[100px]"
                     />
                 </Link>
 

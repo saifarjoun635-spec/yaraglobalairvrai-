@@ -69,6 +69,10 @@ Site web multi-pages en français pour Yara Global Air (climatisation, chauffage
 - Article « 5 signes… » : « climatiseur » → « thermopompe » (titre, extrait, intro).
 - « (CVC-R) » rendu insécable (whitespace-nowrap) dans l'encart À propos de l'accueil et la page À propos.
 
+## Révision 2026-09-23b
+- Logo du menu agrandi d'environ 70 % (barre de menu élargie à 96/112 px en conséquence).
+- Bandeau « Une panne ? » : le courriel n'est plus forcé en majuscules (classe CSS uppercase retirée) — info@yaraglobalair.ca s'affiche en minuscules partout.
+
 ## Backlog
 - P0 : Vérifier que la boîte info@yara.globalair.ca existe (le formulaire mailto affiche cette adresse mais envoie via le Gmail ; me dire pour inverser).
 - P0 : Remplacer les articles du blogue par du vrai contenu.
